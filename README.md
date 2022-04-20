@@ -7,3 +7,14 @@
 #### input_file expects a sentence in each line
 #### b. Prediction using the CRF model
 #### cef_test -m model_path feature_file > features_with_prediction [crf_test is a program in the CRF++ toolkit]
+## If you are using this tool, please use the following citation
+@misc{https://doi.org/10.48550/arxiv.2204.08960,
+  doi = {10.48550/ARXIV.2204.08960},
+  url = {https://arxiv.org/abs/2204.08960},
+  author = {Mishra, Pruthwik and Sharma, Dipti Misra},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Building Odia Shallow Parser},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+} 
