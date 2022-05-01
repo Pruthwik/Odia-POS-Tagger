@@ -1,4 +1,5 @@
 """Tokenize the sentences and create features for testing with CRF."""
+# Here the data is in CoNLL format where each line is a token.
 import argparse
 import codecs
 
