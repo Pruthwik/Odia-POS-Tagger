@@ -1,0 +1,17 @@
+<Sentence id='1'>
+1	ଗନ୍ଧିପୋକ	NN	
+2	-	SYM	
+3	ଏହା	PRP	
+4	ଏକ	QF	
+5	ଶୋଷକ	JJ	
+6	କୀଟ	NN	
+7	।	SYM	<fs af=',,,,,,,'>
+</Sentence>
+
+<Sentence id='2'>
+1	ଏମାନଙ୍କର	PRP	
+2	ବିଭିନ୍ନ	JJ	
+3	ଜାତି	NN	
+4	ଅଛି	VM	
+5	।	SYM	<fs af=',,,,,,,'>
+</Sentence>
